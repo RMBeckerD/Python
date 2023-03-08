@@ -1,0 +1,2 @@
+python ImageProcessMult.py
+PAUSE

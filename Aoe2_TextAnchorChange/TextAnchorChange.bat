@@ -1,0 +1,2 @@
+python TextAnchorChange.py
+PAUSE
